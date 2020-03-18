@@ -1,9 +1,0 @@
-name: dicom2vtk
-
-channels:
-  - simpleitk
-
-dependencies:
-  - simpleitk
-  - vtk
-  - numpy
